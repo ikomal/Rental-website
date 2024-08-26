@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
 import Aboutus from "./components/Aboutus"
 import Contact from "./components/Contactus"
-import "./app.css"
+import "./App.css"
 import Villas from "./components/Villas/Villas"
 import Singlevilla from "./components/Villas/Singlevilla"
 
