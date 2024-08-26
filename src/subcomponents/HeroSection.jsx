@@ -1,0 +1,15 @@
+import React from 'react'
+
+const HeroSection = () => {
+  return (
+    <>
+    <section id='hero'>
+        <h1 className='h1'>BE OUR GUESTS</h1>
+        <p>LIVE LIKE A KING IN OUR BEST HOUSES</p>
+
+    </section>
+    </>
+  )
+}
+
+export default HeroSection
