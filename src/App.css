@@ -641,9 +641,7 @@
   display: flex;
   flex-direction: column;
 }
-#aboutUs_Mini .first_container {
-  /* padding-right: 50px; */
-}
+
 #aboutUs_Mini .first_container .content {
   padding-right: 50px;
 
@@ -815,10 +813,7 @@
   text-align: start;
   margin-bottom: 25px;
 }
-#contact_Mini .super_container .container_2 h3 {
-  /* margin-bottom: 25px; */
 
-}
 #contact_Mini .super_container .container_1 ul a {
   color: #fff;
 }
